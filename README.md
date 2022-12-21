@@ -23,3 +23,8 @@
   12. 현재 사용 중인 Dialog를 Toast message로 변경
   13. CSS 정리 :star:
   14. AXIOS Flag 설정 :star:
+  15. dayjs -> intl format으로 변경
+  16. 미 로그인 사용자가 댓글 입력 등 로그인 필요한 행위 시 alert 출력
+  17. 스켈레톤 컴포넌트 작성
+  18. 스크립트 코드 정리 (Dropdown, navigation component 등)
+  
