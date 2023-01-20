@@ -3,7 +3,7 @@
 ## BackEnd
   1. ~~이미지 S3에 업로드 (현재 서버 자체 저장 중)~~
   2. 보안 관련 설정 — csurf, helmet, ufw ...
-  3. 미사용 이미지 삭제 스케줄러 작성
+  3. ~~미사용 이미지 삭제 스케줄러 작성~~
   4. 비밀번호 찾기
   5. 알람 기능에 필요한 API 작성
   6. ~~API 문서 완성 — 진행 중👀~~
@@ -23,9 +23,9 @@
   12. ~~현재 사용 중인 Dialog를 Toast message로 변경~~
   13. CSS 정리 :star:
   14. AXIOS Flag 설정 :star:
-  15. dayjs -> intl format으로 변경
-  16. 미 로그인 사용자가 댓글 입력 등 로그인 필요한 행위 시 alert 출력
+  15. ~~dayjs -> intl format으로 변경~~
+  16. ~~미 로그인 사용자가 댓글 입력 등 로그인 필요한 행위 시 alert 출력~~
   17. 스켈레톤 컴포넌트 작성
   18. 스크립트 코드 정리 (Dropdown, navigation component 등)
-  19. 슬라이드 
+  19. ~~슬라이드~~
   
